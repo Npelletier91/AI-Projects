@@ -4,6 +4,7 @@ TARGET_PHRASE =  "Hello, World!"
 POPULATION_SIZE = 150
 MUTATION_RATE = .05
 
+
 def gerenate_population():
     population = []
     for _ in range(POPULATION_SIZE):
